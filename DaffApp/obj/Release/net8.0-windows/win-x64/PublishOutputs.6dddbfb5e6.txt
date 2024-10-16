@@ -1,0 +1,6 @@
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-x64\publish\LearnWinForm.exe
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-x64\publish\LearnWinForm.dll
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-x64\publish\LearnWinForm.deps.json
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-x64\publish\LearnWinForm.runtimeconfig.json
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-x64\publish\LearnWinForm.pdb
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-x64\publish\Newtonsoft.Json.dll

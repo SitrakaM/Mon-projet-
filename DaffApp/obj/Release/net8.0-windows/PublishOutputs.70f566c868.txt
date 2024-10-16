@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\LearnWinForm.exe
+C:\Users\Administrator\Desktop\LearnWinForm.dll
+C:\Users\Administrator\Desktop\LearnWinForm.deps.json
+C:\Users\Administrator\Desktop\LearnWinForm.runtimeconfig.json
+C:\Users\Administrator\Desktop\LearnWinForm.pdb
+C:\Users\Administrator\Desktop\Newtonsoft.Json.dll

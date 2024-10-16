@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="img" href="images/icon.png" />
+  <link rel="stylesheet" href="style/css/login.css" />
+  <link rel="stylesheet" href="style/css/fontawesome-free-6.4.0-web/css/all.css" />
+  <link rel="stylesheet" href="style/css/fontawesome-free-6.4.0-web/css/v4-shims.css" />
+  <link rel="stylesheet" href="style/css/index .css" />
+
+  <title>Admin Censura</title>
+  <script src="style/js/jquery-3.7.0.min.js"></script>
+</head>
+
+<body>
+  <div class="slidebar">
+    <ul class="nav-list">
+      <li>
+        <a href="client/index.php">
+          <i class="fa fa-user-friends"></i>
+          <span class="link_name">Artiste</span>
+        </a>
+        <span class="tooltip">Artiste</span>
+      </li>
+
+      <li>
+        <a href="index.html">
+          <i class="fa fa-user-gear" style="color: rgb(6, 0, 43); font-size: 30px"></i>
+          <span class="link_name">Administrateur</span>
+        </a>
+        <span class="tooltip">Administrateur</span>
+      </li>
+    </ul>
+  </div>
+
+  <section class="home-section">
+    <!--login form start-->
+    <div class="bobdy">
+      <div class="wrapper">
+        <div class="form-wrapper sign-up">
+          <form action="others/verification.php" method="post">
+            <h2 class="sig-h2">Connecter</h2>
+
+            <div class="input-group">
+              <input type="text" required name="nom" />
+              <label for="">Nom d'administrateur</label>
+            </div>
+
+            <div class="input-group">
+              <input type="password" required name="password" />
+              <label for="">Mot de passe</label>
+            </div>
+
+            <button type="submit" class="btn" name="valider">
+              Se connecter
+            </button>
+
+            <div class="sign-link">
+              <p>
+                <a class="signIn-link" href="#">Retour</a>
+              </p>
+            </div>
+          </form>
+        </div>
+
+        <div class="form-wrapper sign-in">
+          <form action="#">
+            <img src="images/icon.jpg" class="logocensura" alt="" />
+
+            <h2 class="sig-h2">Censura</h2>
+
+            <div class="sign-link">
+              <p>
+                <a class="signUp-link" href="#">Se connecter</a>
+              </p>
+            </div>
+          </form>
+        </div>
+      </div>
+      <script src="style/js/LS paper.js"></script>
+    </div>
+
+    <!--login form end-->
+  </section>
+
+  <!--script down-->
+  <script src="style/js/sidebar.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+.recherche{
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(50px);
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    padding-top: 10px;
+    z-index: 500;
+}
+.recherche input{
+    width: 300px;
+    border-radius: 20px 0px 0px 20px;
+    padding: 5px;
+    text-align: center;
+}
+.recherche button{
+    background-color: rgba(0,0,0,);
+}
+.re{
+    text-decoration: none;
+    margin-left: -2px;
+    padding: 5px;
+    width: 35px;
+    background-color: white;
+    border-radius: 0px 20px 20px 0px;
+}
+.genres{
+    display: inline-block;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(50px);
+    margin-top: 10px;
+}
+.genres ul{
+    display: inline-flex;
+    flex-direction: row;
+}
+.genres ul li{
+    list-style: none;
+    width: auto;
+    padding: 3px 20px 3px 20px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 0px 5px 0px 5px;
+}
+.genres ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}

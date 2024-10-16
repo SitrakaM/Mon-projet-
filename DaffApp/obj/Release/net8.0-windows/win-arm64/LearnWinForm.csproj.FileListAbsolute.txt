@@ -1,0 +1,17 @@
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-arm64\LearnWinForm.exe
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-arm64\LearnWinForm.deps.json
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-arm64\LearnWinForm.runtimeconfig.json
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-arm64\LearnWinForm.dll
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-arm64\LearnWinForm.pdb
+D:\projet\c#\DafApp\Learn\LearnWinForm\bin\Release\net8.0-windows\win-arm64\Newtonsoft.Json.dll
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWinForm.csproj.AssemblyReference.cache
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWinForm.AssemblyInfoInputs.cache
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWinForm.AssemblyInfo.cs
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWinForm.csproj.CoreCompileInputs.cache
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWin.1CFF8E3F.Up2Date
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWinForm.dll
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\refint\LearnWinForm.dll
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWinForm.pdb
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\LearnWinForm.genruntimeconfig.cache
+D:\projet\c#\DafApp\Learn\LearnWinForm\obj\Release\net8.0-windows\win-arm64\ref\LearnWinForm.dll
